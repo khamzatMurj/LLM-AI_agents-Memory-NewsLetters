@@ -7,3 +7,5 @@
 🟢 [Text to Data Visualization](https://github.com/Canner/WrenAI)
 
 ✅ [Synthesize Research Documents](https://github.com/bytedance/Dolphin?utm_source=aiengineering.beehiiv.com&utm_medium=referral&utm_campaign=turn-pdfs-into-clean-llm-ready-data)
+
+✅ [Agentic Design pattern](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic?pli=1#ftnt_ref1)
