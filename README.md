@@ -16,7 +16,7 @@
 
 ✅ [Dsa problems](https://www.linkedin.com/posts/rjritikjain_top-100-dsa-interview-questions-microsoft-activity-7388039174102302720-0Odh?utm_medium=ios_app&rcm=ACoAADbAih8BClt7VdsYDgfk0rshnKBLBbA4PYk&utm_source=social_share_send&utm_campaign=copy_link)
 
-✅ [](url)
+✅ [Doc lin chunker or converter](https://www.linkedin.com/posts/vinayak-mane-637698143_ai-llm-rag-activity-7389212626746232832-pB-u?utm_medium=ios_app&rcm=ACoAADbAih8BClt7VdsYDgfk0rshnKBLBbA4PYk&utm_source=social_share_send&utm_campaign=copy_link)
 
 ✅ [](url)
 
