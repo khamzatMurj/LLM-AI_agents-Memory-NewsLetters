@@ -18,7 +18,7 @@
 
 ✅ [Doc lin chunker or converter](https://www.linkedin.com/posts/vinayak-mane-637698143_ai-llm-rag-activity-7389212626746232832-pB-u?utm_medium=ios_app&rcm=ACoAADbAih8BClt7VdsYDgfk0rshnKBLBbA4PYk&utm_source=social_share_send&utm_campaign=copy_link)
 
-✅ [](url)
+✅ [k8s](https://www.linkedin.com/posts/modhaffer-raihane_kubernetes-basic-to-advance-activity-7387745116897054721-NekF?utm_medium=ios_app&rcm=ACoAADbAih8BClt7VdsYDgfk0rshnKBLBbA4PYk&utm_source=social_share_send&utm_campaign=copy_link)
 
 ✅ [](url)
 
