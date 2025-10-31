@@ -22,7 +22,7 @@
 
 ✅ [Java 2222 VB.net](https://www.tangiblesoftwaresolutions.com/vb-and-java-equivalents.html)
 
-✅ [](url)
+✅ [Devops Resources](https://github.com/rohitg00/devopscommunity)
 
 ✅ [](url)
 
