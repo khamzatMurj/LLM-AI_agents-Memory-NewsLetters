@@ -20,7 +20,7 @@
 
 ✅ [k8s](https://www.linkedin.com/posts/modhaffer-raihane_kubernetes-basic-to-advance-activity-7387745116897054721-NekF?utm_medium=ios_app&rcm=ACoAADbAih8BClt7VdsYDgfk0rshnKBLBbA4PYk&utm_source=social_share_send&utm_campaign=copy_link)
 
-✅ [Java 2222 VB.net]([url](https://www.tangiblesoftwaresolutions.com/vb-and-java-equivalents.html))
+✅ [Java 2222 VB.net](https://www.tangiblesoftwaresolutions.com/vb-and-java-equivalents.html)
 
 ✅ [](url)
 
